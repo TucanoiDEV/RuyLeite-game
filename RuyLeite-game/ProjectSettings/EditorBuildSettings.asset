@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/GameplayScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 0087578e873577a488ddbfa1a0604664
+  - enabled: 1
+    path: Assets/Scenes/Professores/PortuguesScene.unity
+    guid: 82d44b626d184944f80b11522697b4e1
+  - enabled: 1
+    path: Assets/Scenes/Professores/MatScene.unity
+    guid: 7ec01911e00ab8b4f90a5a88303560bc
+  - enabled: 1
+    path: Assets/Scenes/Professores/HistScene.unity
+    guid: 5fa43bf64f424b049b7ee1fb0e6ca938
+  - enabled: 1
+    path: Assets/Scenes/Professores/CienciaScene.unity
+    guid: d9355db60f6c33f4fb0d4734b00a2afa
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
