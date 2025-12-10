@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Professores/CienciaScene.unity
     guid: d9355db60f6c33f4fb0d4734b00a2afa
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: c1dc0ed90b8eac94eae3604be1483f68
+  - enabled: 1
+    path: Assets/Scenes/Combate/CombateCiencia.unity
+    guid: 942bb6ce80af20148823fb290b86021b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

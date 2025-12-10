@@ -668,10 +668,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1027398401}
   - component: {fileID: 1027398400}
-  - component: {fileID: 1027398402}
   - component: {fileID: 1027398403}
+  - component: {fileID: 1027398404}
   m_Layer: 0
-  m_Name: ProfPort
+  m_Name: ProfMat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -751,19 +751,6 @@ Transform:
   - {fileID: 554737641}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1027398402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1027398399}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4356ce485ab2f544c90b6510b6bd6a4e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::OpenStore
-  houseWarning: {fileID: 554737637}
 --- !u!61 &1027398403
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -810,6 +797,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.24, y: 0.3}
   m_EdgeRadius: 0
+--- !u!114 &1027398404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027398399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00fa833997337b34b82026ab8e046832, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OpenStore7
+  houseWarning: {fileID: 554737637}
 --- !u!1 &1236426800
 GameObject:
   m_ObjectHideFlags: 0

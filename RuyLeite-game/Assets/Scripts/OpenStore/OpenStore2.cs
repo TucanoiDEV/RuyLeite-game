@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class OpenStore1 : MonoBehaviour
+public class OpenStore2 : MonoBehaviour
 {
     public GameObject houseWarning;
     GameObject player;
@@ -22,7 +22,7 @@ public class OpenStore1 : MonoBehaviour
 
             if (Input.GetKeyDown(KeyCode.E))
             {
-                SceneManager.LoadScene("MatScene");
+                SceneManager.LoadScene("CienciaScene");
             }
         }
         else
