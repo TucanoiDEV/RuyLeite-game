@@ -21,9 +21,14 @@ public class SistemaPerguntas : MonoBehaviour
     private Pergunta perguntaAtual;
     private int indiceCorretaEmbaralhada;
 
+    public EntityStats hp;
+    public EntityStats hpEnemy;
+
     void Start()
     {
         NovaPergunta();
+        hp = GameObject.FindGameObjectWithTag("Player").GetComponent<EntityStats>();
+        hpEnemy = GameObject.FindGameObjectWithTag("Enemy").GetComponent<EntityStats>();
     }
 
     public void NovaPergunta()
@@ -82,10 +87,12 @@ public class SistemaPerguntas : MonoBehaviour
         if (indice == indiceCorretaEmbaralhada)
         {
             Debug.Log("✔ Resposta correta!");
+            hpEnemy.hp -= 1;
         }
         else
         {
             Debug.Log("✖ Resposta errada!");
+            hp.hp -= 1;
         }
 
         // Chama outra pergunta aleatória
