@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using TMPro;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 [System.Serializable]
 public class Pergunta
@@ -88,11 +89,21 @@ public class SistemaPerguntas : MonoBehaviour
         {
             Debug.Log("✔ Resposta correta!");
             hpEnemy.hp -= 1;
+
+            if(hpEnemy.hp <= 0)
+            {
+                SceneManager.LoadScene("GameplayScene");
+            }
         }
         else
         {
             Debug.Log("✖ Resposta errada!");
             hp.hp -= 1;
+            
+            if(hp.hp <= 0)
+            {
+                SceneManager.LoadScene("GameOver");
+            }
         }
 
         // Chama outra pergunta aleatória

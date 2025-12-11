@@ -24,10 +24,6 @@ public class EntityStats : MonoBehaviour
         {
             SceneManager.LoadScene("GameOver");
         }
-        else
-        {
-            SceneManager.LoadScene("GameplayScene");
-        }
     }
 
 }
