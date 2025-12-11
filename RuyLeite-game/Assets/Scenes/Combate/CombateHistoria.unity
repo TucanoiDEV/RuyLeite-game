@@ -1343,219 +1343,237 @@ MonoBehaviour:
   - {fileID: 141469247}
   - {fileID: 559311997}
   perguntas:
-  - textoPergunta: Qual a formula da agua?
+  - textoPergunta: 'Qual e o nome do periodo em que os seres humanos viviam em cavernas
+      e cacavam para sobreviver, antes da invencao da escrita? '
     respostas:
-    - H20
-    - CO2
-    - NaCl
-    - O2
+    - Pre-historia
+    - Idade Media
+    - Idade Antiga
+    - Idade Moderna
     indiceCorreta: 0
-  - textoPergunta: Qual o nome cientifico da especie humana
+  - textoPergunta: Quem foi o navegador portugues que chegou as terras que hoje sao
+      o Brasil em 1500?
     respostas:
-    - Homo erectus
-    - homo sapiens
-    - Australopitecos
-    - homo habilis
-    indiceCorreta: 1
-  - textoPergunta: Para as plantas, O que e a fotossintese?
-    respostas:
-    - Alimentacao
-    - Respiracao
-    - Decomposicao
-    - Absorcao
+    - Pedro Alvares Cabral
+    - Vasco da Gama
+    - Cristovao Colombo
+    - Fernao de Magalhaes
     indiceCorreta: 0
-  - textoPergunta: Qual a funcao principal do coracao no corpo humano?
+  - textoPergunta: 'Em qual continente a civilizacao egipcia antiga se desenvolveu? '
     respostas:
-    - Bombear
-    - Produzir
-    - Armazenar
-    - Controlar
+    - Africa
+    - Asia
+    - Europa
+    - America
     indiceCorreta: 0
-  - textoPergunta: 'As plantas sao um exemplo de:'
+  - textoPergunta: 'Qual foi o principal produto explorado pelos portugueses no inicio
+      da colonizacao do Brasil? '
     respostas:
-    - Produtores
-    - Decompositores
-    - Consumidores
-    - Secundarios
+    - Pau-brasil
+    - Ouro
+    - Cafe
+    - Cana-de-acucar
     indiceCorreta: 0
-  - textoPergunta: Qual dos seguintes itens NAO e um ser vivo?
+  - textoPergunta: 'Qual o nome do sistema de governo do Brasil antes de 1889, quando
+      havia um imperador? '
     respostas:
-    - Virus
-    - Fungo
-    - Bacteria
-    - Alga
+    - Monarquia
+    - Republica
+    - Ditadura
+    - Democracia
     indiceCorreta: 0
-  - textoPergunta: Quem geralmente inicia uma cadeia alimentar terrestre?
+  - textoPergunta: "Qual civilizacao antiga construiu as famosas piramides de Giz\xE9? "
     respostas:
-    - Plantas
-    - Fungos
-    - Carnivoros
-    - Herbivoros
+    - Egipcia
+    - Romana
+    - Grega
+    - Mesopotamica
     indiceCorreta: 0
-  - textoPergunta: Qual sistema do corpo humano e responsavel por processar os alimentos
-      e absorver nutrientes?
+  - textoPergunta: 'O que marca o fim da Pre-historia e o inicio da Historia Antiga? '
     respostas:
-    - Digestorio
-    - Circulatorio
-    - Nervoso
-    - Respiratorio
+    - ' A invencao da escrita'
+    - A descoberta do fogo
+    - A invencao da roda
+    - O inicio da agricultura
     indiceCorreta: 0
-  - textoPergunta: Qual gas e liberado pelas plantas durante a fotossintese?
+  - textoPergunta: 'Qual o nome do lider africano que se tornou um simbolo da luta
+      contra a escravidao no Brasil colonial, liderando o Quilombo dos Palmares? '
     respostas:
-    - Oxigenio
-    - Carbonico
-    - Nitrogenio
-    - Hidrogenio
+    - Zumbi
+    - Palmares
+    - Ganga Zumba
+    - Chico Rei
     indiceCorreta: 0
-  - textoPergunta: 'O conjunto de todos os ecossistemas do planeta e chamado de:'
+  - textoPergunta: 'Quem foi o principal lider da Revolucao Francesa, um general
+      que se tornou imperador da Franca? '
     respostas:
-    - Biosfera
-    - Comunidade
-    - Populacao
-    - Habitat
+    - Napoleao Bonaparte
+    - Rei Luis XVI
+    - Maximilien Robespierre
+    - George Washington
     indiceCorreta: 0
-  - textoPergunta: 'A melhor forma de prevencao da dengue, zika e chikungunya e eliminar:'
+  - textoPergunta: 'Qual o nome dado ao periodo no Brasil em que milhoes de pessoas
+      de origem africana foram trazidas a forca para trabalhar? '
     respostas:
-    - Criadouros
-    - Repelente
-    - Vitaminas
-    - Contato
+    - Escravidao
+    - Imigracao
+    - Republica
+    - Descoberta
     indiceCorreta: 0
-  - textoPergunta: Qual das seguintes opcoes e uma fonte de luz natural?
+  - textoPergunta: 'Qual das seguintes opcoes e considerada um "combustivel forum",
+      muito utilizado na Revolucao Industrial? '
     respostas:
-    - Sol
-    - Fogueira
-    - Lanterna
-    - Lampada
+    - Carvao mineral
+    - Energia solar
+    - Petroleo
+    - Energia eolica
     indiceCorreta: 0
-  - textoPergunta: Qual a unidade padrao de medida de temperatura no SI?
+  - textoPergunta: 'Qual o nome do conflito mundial que ocorreu entre 1914 e 1918? '
     respostas:
-    - Kelvin
-    - Fahrenheit
-    - Celsius
-    - Ampere
+    - Primeira Guerra Mundial
+    - Segunda Guerra Mundial
+    - Guerra Fria
+    - Guerra do Vietna
     indiceCorreta: 0
-  - textoPergunta: 'A tendencia de um corpo permanecer em seu estado de movimento
-      ou repouso e chamada de:'
+  - textoPergunta: 'Quem proclamou a Independencia do Brasil as margens do Riacho
+      Ipiranga em 1822? '
     respostas:
-    - Inercia
-    - Gravitacao
-    - Acao
-    - Conservacao
+    - Dom Pedro I
+    - Dom Pedro II
+    - Tiradentes
+    - Getulio Vargas
     indiceCorreta: 0
-  - textoPergunta: O som se propaga melhor em qual meio?
+  - textoPergunta: 'Onde surgiram os primeiros jogos olimpicos da Antiguidade? '
     respostas:
-    - Aco
-    - Ar
-    - Agua
-    - Vacuo
+    - Grecia
+    - Roma
+    - Egito
+    - China
     indiceCorreta: 0
-  - textoPergunta: Qual tipo de energia e gerada pelo movimento da agua em uma usina?
+  - textoPergunta: 'Em que ano o Brasil deixou de ser uma colonia de Portugal e se
+      tornou independente? '
     respostas:
-    - Cinetica
-    - Eolica
-    - Nuclear
-    - Solar
+    - 1822
+    - 1500
+    - 1889
+    - 1900
     indiceCorreta: 0
-  - textoPergunta: A cor do ceu e azul devido a qual fenomeno fisico?
+  - textoPergunta: 'Qual o nome da doutrina politica liderada por Adolf Hitler na
+      Alemanha durante a Segunda Guerra Mundial? '
     respostas:
-    - Dispersao
-    - Refracao
-    - Reflexao
-    - Absorcao
+    - Nazismo
+    - Fascismo
+    - Comunismo
+    - Capitalismo
     indiceCorreta: 0
-  - textoPergunta: Qual palavra se refere melhor a um circuito eletrico?
+  - textoPergunta: 'Quem foi o presidente do Brasil que governou por um longo periodo,
+      conhecido como a "Era Vargas"? '
     respostas:
-    - Caminho
-    - Armazena
-    - Ima
-    - Motor
+    - Getulio Vargas
+    - Juscelino Kubitschek
+    - Luiz Inacio Lula da Silva
+    - Fernando Henrique Cardoso
     indiceCorreta: 0
-  - textoPergunta: "O que acontece com a agua quando atinge 100\xB0C ao nivel do
-      mar?"
+  - textoPergunta: 'Qual o nome do movimento artistico e cultural que marcou o fim
+      da Idade Media na Europa, valorizando o ser humano e a ciencia? '
     respostas:
-    - Evapora
-    - Congela
-    - Condensa
-    - Solidifica
+    - Renascimento
+    - Modernismo
+    - Barroco
+    - Romantismo
     indiceCorreta: 0
-  - textoPergunta: Qual instrumento e usado para medir a forca?
+  - textoPergunta: 'Qual o nome do periodo em que o Brasil foi governado por militares,
+      apos o golpe de 1964? '
     respostas:
-    - Dinamometro
-    - Balanca
-    - Termometro
-    - Voltimetro
+    - Ditadura militar
+    - Periodo democratico
+    - Era Vargas
+    - Monarquia
     indiceCorreta: 0
-  - textoPergunta: 'Tudo o que tem massa e ocupa lugar no espaco e chamado de:'
+  - textoPergunta: Qual a primeira capital do Brasil colonial?
     respostas:
-    - Materia
-    - Energia
-    - Luz
-    - Forca
+    - Salvador
+    - Rio de Janeiro
+    - Brasilia
+    - Sao Paulo
     indiceCorreta: 0
-  - textoPergunta: 'Qual e o principal componente do ar que respiramos? '
+  - textoPergunta: 'Qual o nome do tratado que dividiu as terras da America do Sul
+      entre Portugal e Espanha? '
     respostas:
-    - Nitrogenio
-    - Carbonico
-    - Oxigenio
-    - Hidrogenio
+    - Tratado de Tordesilhas
+    - Tratado de Versalhes
+    - Tratado de Madrid
+    - Tratado de Paz
     indiceCorreta: 0
-  - textoPergunta: 'O processo de derretimento do gelo e chamado de: '
+  - textoPergunta: 'O que foi a Lei Aurea, assinada em 1888? '
     respostas:
-    - Fusao
-    - Condensacao
-    - Evaporacao
-    - Solidificacao
+    - A lei que aboliu a escravidao no Brasil.
+    - A lei que criou a Republica.
+    - 'A lei que deu terras aos escravizados. '
+    - A lei que limitou a jornada de trabalho.
     indiceCorreta: 0
-  - textoPergunta: 'Qual e o solvente universal? '
+  - textoPergunta: 'Qual o principal evento que levou os Estados Unidos a entrar
+      na Segunda Guerra Mundial? '
     respostas:
-    - Agua
-    - Sal
-    - Oleo
-    - Alcool
+    - O ataque japones a Pearl Harbor
+    - O ataque alemao a Polonia
+    - O ataque sovietico a Alemanha
+    - O ataque italiano a Grecia
     indiceCorreta: 0
-  - textoPergunta: 'Uma mistura de agua e oleo e um exemplo de mistura: '
+  - textoPergunta: 'Quem foi o lider da India que lutou pela independencia do pais
+      usando metodos de nao-violencia (resistencia pacifica)? '
     respostas:
-    - Heterogenea
-    - Homogenea
-    - Simples
-    - Composta
+    - Mahatma Gandhi
+    - Jawaharlal Nehru
+    - Buda
+    - Mao Tse-Tung
     indiceCorreta: 0
-  - textoPergunta: 'Qual elemento quimico e o simbolo do carbono? '
+  - textoPergunta: 'Quem foi o lider da India que lutou pela independencia do pais
+      usando metodos de nao-violencia (resistencia pacifica)? '
     respostas:
-    - C
-    - Ca
-    - O
-    - Co
+    - Mahatma Gandhi
+    - Jawaharlal Nehru
+    - Buda
+    - Mao Tse-Tung
     indiceCorreta: 0
-  - textoPergunta: 'O que sao atomos? '
+  - textoPergunta: 'O que e um fossil? '
     respostas:
-    - Materia
-    - Vida
-    - Energia
-    - Nucleo
+    - "vest\xEDgios de seres antigos"
+    - Uma ferramenta antiga de pedra.
+    - Um tipo de mineral raro.
+    - Um livro de historia antigo.
     indiceCorreta: 0
-  - textoPergunta: 'O processo que transforma o lixo em material que pode ser reutilizado
-      e: '
+  - textoPergunta: 'Qual o nome do evento historico que resultou na saida do Brasil
+      da condicao de colonia de Portugal? '
     respostas:
-    - Reciclagem
-    - Decomposicao
-    - Combustao
-    - Fermentacao
+    - Independencia
+    - Colonizacao
+    - Republica
+    - Escravidao
     indiceCorreta: 0
-  - textoPergunta: 'Qual o nome da substancia que deixa os alimentos com sabor azedo? '
+  - textoPergunta: 'Quem era a rainha da Inglaterra durante o periodo em que Shakespeare
+      escrevia suas pecas e a Inglaterra expandia seu imperio? '
     respostas:
-    - Acido
-    - Base
-    - Sal
-    - Neutro
+    - Rainha Elizabeth I
+    - Rainha Vitoria
+    - Rainha Elizabeth II
+    - Escravidao
     indiceCorreta: 0
-  - textoPergunta: 'Em uma reacao quimica, os reagentes se transformam em: '
+  - textoPergunta: 'Qual a cidade antiga famosa por suas lutas de gladiadores no
+      Coliseu? '
     respostas:
-    - Produtos
-    - Solventes
-    - Misturas
-    - Atomos
+    - Roma
+    - Atenas
+    - Esparta
+    - Babilonia
+    indiceCorreta: 0
+  - textoPergunta: 'Qual o nome da revolta que ocorreu no Brasil em 1789, que tinha
+      como objetivo a independencia de Minas Gerais de Portugal? '
+    respostas:
+    - Inconfidencia Mineira
+    - 'Revolta dos Alfaiates '
+    - Guerra dos Farrapos
+    - Revolta da Vacina
     indiceCorreta: 0
   hp: {fileID: 0}
   hpEnemy: {fileID: 0}
@@ -3212,7 +3230,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Sprite: {fileID: -4478604325228633609, guid: e8df72b6a9899eb48bec22fb47672153, type: 3}
+  m_Sprite: {fileID: -6725630902463119575, guid: eea7f53e97f55734380250b25a3b0f7b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
