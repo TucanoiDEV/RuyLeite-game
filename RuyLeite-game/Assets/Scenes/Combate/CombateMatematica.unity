@@ -1179,8 +1179,8 @@ Transform:
   m_GameObject: {fileID: 320563659}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.63282, y: -0.03364998, z: 0}
-  m_LocalScale: {x: 5.758903, y: 4.6382346, z: 3.687}
+  m_LocalPosition: {x: 0.63282, y: -0.03365, z: 0}
+  m_LocalScale: {x: 6.9400544, y: 5.5895367, z: 4.443204}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 37924315}
@@ -1343,15 +1343,208 @@ MonoBehaviour:
   - {fileID: 141469247}
   - {fileID: 559311997}
   perguntas:
-  - textoPergunta: Qual a formula da agua?
+  - textoPergunta: 'Quanto e 5 + 3? '
     respostas:
-    - H20
-    - CO2
-    - NaCl
-    - O2
+    - 8
+    - 9
+    - 7
+    - 6
+    indiceCorreta: 0
+  - textoPergunta: 'Quanto e 10 - 4? '
+    respostas:
+    - 6
+    - 5
+    - 7
+    - 4
+    indiceCorreta: 0
+  - textoPergunta: 'Quanto e 2 multiplicado por 6 (2 x 6)? '
+    respostas:
+    - 12
+    - 10
+    - 8
+    - 14
+    indiceCorreta: 0
+  - textoPergunta: 'Quanto e 15 dividido por 3 (15 / 3)? '
+    respostas:
+    - 5
+    - 4
+    - 6
+    - 3
+    indiceCorreta: 0
+  - textoPergunta: 'Qual e o proximo numero na sequencia: 2, 4, 6, 8, ...? '
+    respostas:
+    - 10
+    - 9
+    - 12
+    - 11
+    indiceCorreta: 0
+  - textoPergunta: 'Quantos lados tem um triangulo? '
+    respostas:
+    - 3
+    - 4
+    - 5
+    - 6
+    indiceCorreta: 0
+  - textoPergunta: Qual o valor de 5 ao quadrado?
+    respostas:
+    - 25
+    - 10
+    - 20
+    - 30
+    indiceCorreta: 0
+  - textoPergunta: 'Quanto e 50% (cinquenta por cento) de 100? '
+    respostas:
+    - 50
+    - 25
+    - 75
+    - 100
+    indiceCorreta: 0
+  - textoPergunta: 'Se voce tem 12 lapis e da metade para um amigo, quantos lapis
+      voce da? '
+    respostas:
+    - 6
+    - 4
+    - 3
+    - 8
+    indiceCorreta: 0
+  - textoPergunta: 'Quantos minutos ha em uma hora? '
+    respostas:
+    - 60
+    - 30
+    - 100
+    - 24
+    indiceCorreta: 0
+  - textoPergunta: 'Qual o perimetro de um quadrado com lados de 4 cm cada? (Perimetro
+      = soma dos lados) '
+    respostas:
+    - 16 cm
+    - 8 cm
+    - 12 cm
+    - 4 cm
+    indiceCorreta: 0
+  - textoPergunta: 'Qual e o valor de Pi (aproximadamente)? '
+    respostas:
+    - 3,14
+    - 3,0
+    - 4,13
+    - 3,41
+    indiceCorreta: 0
+  - textoPergunta: 'Quanto e a soma dos angulos internos de um triangulo? '
+    respostas:
+    - 180 graus
+    - 90 graus
+    - 360 graus
+    - 100 graus
+    indiceCorreta: 0
+  - textoPergunta: 'Qual destes e um numero par? '
+    respostas:
+    - 4
+    - 3
+    - 5
+    - 7
+    indiceCorreta: 0
+  - textoPergunta: Quanto e 0,5 em forma de fracao?
+    respostas:
+    - 1/2
+    - 1/4
+    - 1/5
+    - 1/10
+    indiceCorreta: 0
+  - textoPergunta: 'Qual o resultado de 100 + 250? '
+    respostas:
+    - 350
+    - 300
+    - 250
+    - 400
+    indiceCorreta: 0
+  - textoPergunta: 'Quantos dias ha em uma semana? '
+    respostas:
+    - 7
+    - 5
+    - 30
+    - 12
+    indiceCorreta: 0
+  - textoPergunta: 'Qual e o antecessor do numero 20? '
+    respostas:
+    - 19
+    - 21
+    - 18
+    - 20
+    indiceCorreta: 0
+  - textoPergunta: 'O que e um circulo? '
+    respostas:
+    - Uma figura geometrica redonda e plana
+    - Uma figura com 4 lados iguais
+    - Uma figura com 3 lados
+    - Uma figura com 6 lados
+    indiceCorreta: 0
+  - textoPergunta: Quanto e 1,5 + 0,5?
+    respostas:
+    - 2,0
+    - 1,0
+    - 2,5
+    - 1,5
+    indiceCorreta: 0
+  - textoPergunta: 'Qual o dobro de 8? '
+    respostas:
+    - 16
+    - 8
+    - 4
+    - 10
+    indiceCorreta: 0
+  - textoPergunta: 'Qual a metade de 50? '
+    respostas:
+    - 25
+    - 10
+    - 5
+    - 100
+    indiceCorreta: 0
+  - textoPergunta: Qual e a unidade de medida de comprimento mais comum?
+    respostas:
+    - Metro
+    - Litro
+    - Quilo
+    - Segundo
+    indiceCorreta: 0
+  - textoPergunta: 'Qual destas e uma equacao simples? '
+    respostas:
+    - 2x + 1 = 5
+    - A + B = C
+    - 10 > 5
+    - 16
+    indiceCorreta: 0
+  - textoPergunta: 'Quantos meses tem um ano? '
+    respostas:
+    - 12
+    - 10
+    - 7
+    - 30
+    indiceCorreta: 0
+  - textoPergunta: 'Quanto e 10 x 100? '
+    respostas:
+    - 1000
+    - 100
+    - 10
+    - 110
+    indiceCorreta: 0
+  - textoPergunta: 'Qual o proximo numero primo depois do 2 e 3? '
+    respostas:
+    - 5
+    - 4
+    - 6
+    - 7
+    indiceCorreta: 0
+  - textoPergunta: Qual e a area de um retangulo com comprimento 5 cm e largura 2
+      cm?
+    respostas:
+    - 10 cm quadrados
+    - 7 cm quadrados
+    - 14 cm quadrados
+    - '25 cm quadrados '
     indiceCorreta: 0
   hp: {fileID: 0}
   hpEnemy: {fileID: 0}
+  indiceCena: 4
 --- !u!1 &423089863
 GameObject:
   m_ObjectHideFlags: 0

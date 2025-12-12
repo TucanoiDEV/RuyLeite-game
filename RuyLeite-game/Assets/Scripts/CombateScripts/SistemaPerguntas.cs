@@ -25,6 +25,8 @@ public class SistemaPerguntas : MonoBehaviour
     public EntityStats hp;
     public EntityStats hpEnemy;
 
+    public int indiceCena;
+
     void Start()
     {
         NovaPergunta();
@@ -92,7 +94,22 @@ public class SistemaPerguntas : MonoBehaviour
 
             if(hpEnemy.hp <= 0)
             {
-                SceneManager.LoadScene("GameplayScene");
+                if (indiceCena == 1)
+                {
+                    SceneManager.LoadScene("GameplayScenePort");
+                }
+                if (indiceCena == 2)
+                {
+                    SceneManager.LoadScene("GameplaySceneHis");
+                }
+                if (indiceCena == 3)
+                {
+                    SceneManager.LoadScene("GameplaySceneCie");
+                }
+                if (indiceCena == 4)
+                {
+                    SceneManager.LoadScene("FinalScene");
+                }
             }
         }
         else

@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GameplayScene.unity
+    path: Assets/Scenes/Gameplay/GameplayScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
@@ -29,6 +29,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Combate/CombateCiencia.unity
     guid: 942bb6ce80af20148823fb290b86021b
+  - enabled: 1
+    path: Assets/Scenes/Combate/CombateHistoria.unity
+    guid: 567240f4e3b6cf74d97f39f19b62b26e
+  - enabled: 1
+    path: Assets/Scenes/Combate/CombateMatematica.unity
+    guid: fbf894f5a5f13e341a3db65bba0b1a70
+  - enabled: 1
+    path: Assets/Scenes/Combate/CombatePortugues.unity
+    guid: 6ace688a6b09c1a40814b9910f383b52
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/GameplaySceneCie.unity
+    guid: 6545f1493dc420d409701fcc60812e13
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/GameplaySceneHis.unity
+    guid: 43797f58e3a72684b9506242aba39bb6
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/GameplayScenePort.unity
+    guid: fec75e724fd8c894b844df535cfd972e
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 950fcddc937cf5048aec40f349bd1ba7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
